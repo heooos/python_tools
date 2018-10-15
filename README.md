@@ -2,5 +2,5 @@
 
 * Code from Internet
 * Test pass in python2.7
-* Require Lib: tmod
+* Require Lib: tomd
 
